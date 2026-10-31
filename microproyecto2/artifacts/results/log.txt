@@ -1,0 +1,124 @@
+[gpt_desde_cero] 16224 actualizaciones (676/época), batch efectivo 16, val loss inicial 10.8764
+[gpt_desde_cero] época 1 | update   169/16224 | lr 1.26e-04 | train 8.7262 | val 6.5149 (ppl 675.13) | 7s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 1 | update   338/16224 | lr 2.51e-04 | train 5.8132 | val 5.2095 (ppl 183.01) | 14s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 1 | update   507/16224 | lr 3.76e-04 | train 4.9872 | val 4.7044 (ppl 110.43) | 20s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 1 | update   676/16224 | lr 5.01e-04 | train 4.5595 | val 4.3696 (ppl 79.01) | 27s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 2 | update   845/16224 | lr 6.00e-04 | train 4.2337 | val 4.1266 (ppl 61.97) | 33s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 2 | update  1014/16224 | lr 6.00e-04 | train 4.0532 | val 3.9444 (ppl 51.64) | 40s  * mejor (checkpoint guardado)
+[gpt_desde_cero] 16224 actualizaciones (676/época), batch efectivo 16, val loss inicial 10.8764
+[gpt_desde_cero] época 1 | update   169/16224 | lr 1.26e-04 | train 8.7262 | val 6.5149 (ppl 675.13) | 7s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 1 | update   338/16224 | lr 2.51e-04 | train 5.8132 | val 5.2095 (ppl 183.01) | 13s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 1 | update   507/16224 | lr 3.76e-04 | train 4.9872 | val 4.7044 (ppl 110.43) | 20s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 1 | update   676/16224 | lr 5.01e-04 | train 4.5595 | val 4.3696 (ppl 79.01) | 26s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 2 | update   845/16224 | lr 6.00e-04 | train 4.2337 | val 4.1266 (ppl 61.97) | 33s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 2 | update  1014/16224 | lr 6.00e-04 | train 4.0532 | val 3.9444 (ppl 51.64) | 39s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 2 | update  1183/16224 | lr 5.99e-04 | train 3.8937 | val 3.7988 (ppl 44.65) | 46s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 2 | update  1352/16224 | lr 5.98e-04 | train 3.8065 | val 3.6990 (ppl 40.41) | 53s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 3 | update  1521/16224 | lr 5.97e-04 | train 3.5869 | val 3.6248 (ppl 37.52) | 59s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 3 | update  1690/16224 | lr 5.96e-04 | train 3.5929 | val 3.5394 (ppl 34.45) | 66s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 3 | update  1859/16224 | lr 5.94e-04 | train 3.5161 | val 3.4665 (ppl 32.02) | 72s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 3 | update  2028/16224 | lr 5.92e-04 | train 3.4041 | val 3.4057 (ppl 30.13) | 79s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 4 | update  2197/16224 | lr 5.89e-04 | train 3.2843 | val 3.3602 (ppl 28.79) | 85s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 4 | update  2366/16224 | lr 5.87e-04 | train 3.2741 | val 3.3135 (ppl 27.48) | 92s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 4 | update  2535/16224 | lr 5.84e-04 | train 3.2441 | val 3.2633 (ppl 26.14) | 98s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 4 | update  2704/16224 | lr 5.80e-04 | train 3.1922 | val 3.2064 (ppl 24.69) | 105s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 5 | update  2873/16224 | lr 5.77e-04 | train 3.0294 | val 3.1874 (ppl 24.22) | 112s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 5 | update  3042/16224 | lr 5.73e-04 | train 3.0517 | val 3.1508 (ppl 23.35) | 118s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 5 | update  3211/16224 | lr 5.68e-04 | train 3.0609 | val 3.1022 (ppl 22.25) | 125s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 5 | update  3380/16224 | lr 5.64e-04 | train 3.0604 | val 3.0773 (ppl 21.70) | 131s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 6 | update  3549/16224 | lr 5.59e-04 | train 2.9026 | val 3.0548 (ppl 21.22) | 138s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 6 | update  3718/16224 | lr 5.54e-04 | train 2.8706 | val 3.0170 (ppl 20.43) | 144s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 6 | update  3887/16224 | lr 5.49e-04 | train 2.9177 | val 2.9941 (ppl 19.97) | 151s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 6 | update  4056/16224 | lr 5.43e-04 | train 2.8955 | val 2.9552 (ppl 19.21) | 157s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 7 | update  4225/16224 | lr 5.37e-04 | train 2.7359 | val 2.9444 (ppl 19.00) | 164s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 7 | update  4394/16224 | lr 5.31e-04 | train 2.7784 | val 2.9209 (ppl 18.56) | 171s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 7 | update  4563/16224 | lr 5.25e-04 | train 2.7819 | val 2.8905 (ppl 18.00) | 177s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 7 | update  4732/16224 | lr 5.18e-04 | train 2.7790 | val 2.8672 (ppl 17.59) | 184s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 8 | update  4901/16224 | lr 5.11e-04 | train 2.6298 | val 2.8648 (ppl 17.55) | 190s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 8 | update  5070/16224 | lr 5.04e-04 | train 2.6647 | val 2.8609 (ppl 17.48) | 197s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 8 | update  5239/16224 | lr 4.97e-04 | train 2.6706 | val 2.8157 (ppl 16.70) | 203s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 8 | update  5408/16224 | lr 4.90e-04 | train 2.6752 | val 2.8045 (ppl 16.52) | 210s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 9 | update  5577/16224 | lr 4.82e-04 | train 2.5096 | val 2.8071 (ppl 16.56) | 216s
+[gpt_desde_cero] época 9 | update  5746/16224 | lr 4.75e-04 | train 2.5571 | val 2.7896 (ppl 16.27) | 223s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 9 | update  5915/16224 | lr 4.67e-04 | train 2.6151 | val 2.7605 (ppl 15.81) | 229s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 9 | update  6084/16224 | lr 4.58e-04 | train 2.5960 | val 2.7562 (ppl 15.74) | 236s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 10 | update  6253/16224 | lr 4.50e-04 | train 2.4690 | val 2.7496 (ppl 15.64) | 242s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 10 | update  6422/16224 | lr 4.42e-04 | train 2.5012 | val 2.7273 (ppl 15.29) | 249s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 10 | update  6591/16224 | lr 4.33e-04 | train 2.5067 | val 2.7215 (ppl 15.20) | 255s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 10 | update  6760/16224 | lr 4.25e-04 | train 2.5360 | val 2.7064 (ppl 14.97) | 262s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 11 | update  6929/16224 | lr 4.16e-04 | train 2.3998 | val 2.7146 (ppl 15.10) | 268s
+[gpt_desde_cero] época 11 | update  7098/16224 | lr 4.07e-04 | train 2.3939 | val 2.6961 (ppl 14.82) | 275s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 11 | update  7267/16224 | lr 3.98e-04 | train 2.4517 | val 2.6733 (ppl 14.49) | 281s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 11 | update  7436/16224 | lr 3.89e-04 | train 2.4603 | val 2.6653 (ppl 14.37) | 288s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 12 | update  7605/16224 | lr 3.80e-04 | train 2.3238 | val 2.6794 (ppl 14.58) | 294s
+[gpt_desde_cero] época 12 | update  7774/16224 | lr 3.71e-04 | train 2.3834 | val 2.6564 (ppl 14.25) | 301s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 12 | update  7943/16224 | lr 3.62e-04 | train 2.3841 | val 2.6438 (ppl 14.07) | 307s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 12 | update  8112/16224 | lr 3.52e-04 | train 2.4112 | val 2.6499 (ppl 14.15) | 314s
+[gpt_desde_cero] época 13 | update  8281/16224 | lr 3.43e-04 | train 2.2680 | val 2.6464 (ppl 14.10) | 320s
+[gpt_desde_cero] época 13 | update  8450/16224 | lr 3.34e-04 | train 2.3245 | val 2.6408 (ppl 14.02) | 327s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 13 | update  8619/16224 | lr 3.24e-04 | train 2.2946 | val 2.6200 (ppl 13.74) | 333s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 13 | update  8788/16224 | lr 3.15e-04 | train 2.3629 | val 2.6136 (ppl 13.65) | 340s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 14 | update  8957/16224 | lr 3.06e-04 | train 2.1998 | val 2.6201 (ppl 13.74) | 346s
+[gpt_desde_cero] época 14 | update  9126/16224 | lr 2.97e-04 | train 2.2474 | val 2.6090 (ppl 13.59) | 353s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 14 | update  9295/16224 | lr 2.87e-04 | train 2.2701 | val 2.6063 (ppl 13.55) | 359s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 14 | update  9464/16224 | lr 2.78e-04 | train 2.2972 | val 2.5868 (ppl 13.29) | 366s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 15 | update  9633/16224 | lr 2.69e-04 | train 2.1568 | val 2.5989 (ppl 13.45) | 372s
+[gpt_desde_cero] época 15 | update  9802/16224 | lr 2.60e-04 | train 2.2049 | val 2.5946 (ppl 13.39) | 378s
+[gpt_desde_cero] época 15 | update  9971/16224 | lr 2.51e-04 | train 2.2244 | val 2.5821 (ppl 13.23) | 385s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 15 | update 10140/16224 | lr 2.42e-04 | train 2.2144 | val 2.5638 (ppl 12.98) | 391s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 16 | update 10309/16224 | lr 2.34e-04 | train 2.1185 | val 2.5789 (ppl 13.18) | 398s
+[gpt_desde_cero] época 16 | update 10478/16224 | lr 2.25e-04 | train 2.1350 | val 2.5677 (ppl 13.04) | 404s
+[gpt_desde_cero] época 16 | update 10647/16224 | lr 2.16e-04 | train 2.1828 | val 2.5516 (ppl 12.83) | 411s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 16 | update 10816/16224 | lr 2.08e-04 | train 2.1950 | val 2.5479 (ppl 12.78) | 417s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 17 | update 10985/16224 | lr 2.00e-04 | train 2.0704 | val 2.5607 (ppl 12.94) | 423s
+[gpt_desde_cero] época 17 | update 11154/16224 | lr 1.92e-04 | train 2.1261 | val 2.5535 (ppl 12.85) | 430s
+[gpt_desde_cero] época 17 | update 11323/16224 | lr 1.84e-04 | train 2.1104 | val 2.5480 (ppl 12.78) | 436s
+[gpt_desde_cero] época 17 | update 11492/16224 | lr 1.76e-04 | train 2.1191 | val 2.5381 (ppl 12.66) | 443s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 18 | update 11661/16224 | lr 1.69e-04 | train 2.0478 | val 2.5489 (ppl 12.79) | 449s
+[gpt_desde_cero] época 18 | update 11830/16224 | lr 1.61e-04 | train 2.0559 | val 2.5432 (ppl 12.72) | 455s
+[gpt_desde_cero] época 18 | update 11999/16224 | lr 1.54e-04 | train 2.0607 | val 2.5334 (ppl 12.60) | 462s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 18 | update 12168/16224 | lr 1.47e-04 | train 2.0971 | val 2.5261 (ppl 12.50) | 468s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 19 | update 12337/16224 | lr 1.40e-04 | train 2.0006 | val 2.5305 (ppl 12.56) | 475s
+[gpt_desde_cero] época 19 | update 12506/16224 | lr 1.34e-04 | train 2.0314 | val 2.5297 (ppl 12.55) | 481s
+[gpt_desde_cero] época 19 | update 12675/16224 | lr 1.28e-04 | train 2.0191 | val 2.5235 (ppl 12.47) | 488s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 19 | update 12844/16224 | lr 1.22e-04 | train 2.0389 | val 2.5198 (ppl 12.43) | 494s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 20 | update 13013/16224 | lr 1.16e-04 | train 1.9443 | val 2.5372 (ppl 12.64) | 501s
+[gpt_desde_cero] época 20 | update 13182/16224 | lr 1.10e-04 | train 1.9887 | val 2.5165 (ppl 12.39) | 507s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 20 | update 13351/16224 | lr 1.05e-04 | train 1.9766 | val 2.5114 (ppl 12.32) | 514s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 20 | update 13520/16224 | lr 1.00e-04 | train 2.0124 | val 2.5096 (ppl 12.30) | 520s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 21 | update 13689/16224 | lr 9.52e-05 | train 1.8916 | val 2.5121 (ppl 12.33) | 527s
+[gpt_desde_cero] época 21 | update 13858/16224 | lr 9.08e-05 | train 1.9667 | val 2.5162 (ppl 12.38) | 533s
+[gpt_desde_cero] época 21 | update 14027/16224 | lr 8.66e-05 | train 1.9605 | val 2.5050 (ppl 12.24) | 539s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 21 | update 14196/16224 | lr 8.27e-05 | train 1.9549 | val 2.5107 (ppl 12.31) | 546s
+[gpt_desde_cero] época 22 | update 14365/16224 | lr 7.92e-05 | train 1.9005 | val 2.5123 (ppl 12.33) | 552s
+[gpt_desde_cero] época 22 | update 14534/16224 | lr 7.59e-05 | train 1.9191 | val 2.5076 (ppl 12.28) | 558s
+[gpt_desde_cero] época 22 | update 14703/16224 | lr 7.29e-05 | train 1.9343 | val 2.5123 (ppl 12.33) | 565s
+[gpt_desde_cero] época 22 | update 14872/16224 | lr 7.02e-05 | train 1.9527 | val 2.5003 (ppl 12.19) | 571s  * mejor (checkpoint guardado)
+[gpt_desde_cero] época 23 | update 15041/16224 | lr 6.78e-05 | train 1.8715 | val 2.5108 (ppl 12.32) | 578s
+[gpt_desde_cero] época 23 | update 15210/16224 | lr 6.57e-05 | train 1.8957 | val 2.5092 (ppl 12.29) | 584s
+[gpt_desde_cero] época 23 | update 15379/16224 | lr 6.40e-05 | train 1.9270 | val 2.5074 (ppl 12.27) | 590s
+[gpt_desde_cero] época 23 | update 15548/16224 | lr 6.26e-05 | train 1.9326 | val 2.5027 (ppl 12.22) | 597s
+[gpt_desde_cero] época 24 | update 15717/16224 | lr 6.14e-05 | train 1.8421 | val 2.5115 (ppl 12.32) | 603s
+[gpt_desde_cero] época 24 | update 15886/16224 | lr 6.06e-05 | train 1.8827 | val 2.5094 (ppl 12.30) | 609s
+[gpt_desde_cero] época 24 | update 16055/16224 | lr 6.02e-05 | train 1.8981 | val 2.5088 (ppl 12.29) | 616s
+[gpt_desde_cero] época 24 | update 16224/16224 | lr 6.00e-05 | train 1.9192 | val 2.5009 (ppl 12.19) | 622s
+GPT desde cero: pico de memoria GPU (entrenamiento) 3.69 GiB
+[smollm2_135m_ft] 676 actualizaciones (676/época), batch efectivo 16, val loss inicial 1.7677
+[smollm2_135m_ft] época 1 | update   169/676 | lr 9.04e-05 | train 1.6958 | val 1.6524 (ppl 5.22) | 125s  * mejor (checkpoint guardado)
+[smollm2_135m_ft] época 1 | update   338/676 | lr 5.86e-05 | train 1.6215 | val 1.6070 (ppl 4.99) | 251s  * mejor (checkpoint guardado)
+[smollm2_135m_ft] época 1 | update   507/676 | lr 2.45e-05 | train 1.5807 | val 1.5806 (ppl 4.86) | 376s  * mejor (checkpoint guardado)
+[smollm2_135m_ft] época 1 | update   676/676 | lr 1.00e-05 | train 1.5639 | val 1.5698 (ppl 4.81) | 501s  * mejor (checkpoint guardado)
+SmolLM2-135M finetuned: mejor val loss 1.5698 (PPL 4.81) | tiempo 8.3 min | pico GPU entrenamiento 4.23 GiB | checkpoint artifacts/checkpoints/smollm2-135m-ft
+[smollm2_360m_ft] 676 actualizaciones (676/época), batch efectivo 16, val loss inicial 1.5049
+[smollm2_360m_ft] época 1 | update   169/676 | lr 2.71e-05 | train 1.4595 | val 1.4255 (ppl 4.16) | 270s  * mejor (checkpoint guardado)
+[smollm2_360m_ft] época 1 | update   338/676 | lr 1.76e-05 | train 1.4079 | val 1.4002 (ppl 4.06) | 539s  * mejor (checkpoint guardado)
+[smollm2_360m_ft] época 1 | update   507/676 | lr 7.35e-06 | train 1.3887 | val 1.3874 (ppl 4.00) | 810s  * mejor (checkpoint guardado)
+[smollm2_360m_ft] época 1 | update   676/676 | lr 3.00e-06 | train 1.3820 | val 1.3825 (ppl 3.98) | 1079s  * mejor (checkpoint guardado)
+SmolLM2-360M finetuned: mejor val loss 1.3825 (PPL 3.98) | tiempo 18.0 min | pico GPU entrenamiento 7.25 GiB | checkpoint artifacts/checkpoints/smollm2-360m-ft
+Baseline unigrama (add-1, ajustado en train): PPL prueba 943.41 | top-1 4.6% | top-5 17.4%
+Baseline uniforme: PPL prueba 49,152 | top-1 0.002% | top-5 0.01%
+GPT desde cero                 | PPL prueba    12.05 | top-1 58.0% | validez 52.0% [45.1%-58.8%] | pico GPU 2.82 GiB | 72s
+SmolLM2-135M pre-entrenado     | PPL prueba     5.96 | top-1 64.6% | validez 61.5% [54.6%-68.0%] | pico GPU 3.22 GiB | 152s
+SmolLM2-135M finetuned         | PPL prueba     4.87 | top-1 67.8% | validez 57.0% [50.1%-63.7%] | pico GPU 3.22 GiB | 151s
+SmolLM2-360M pre-entrenado     | PPL prueba     4.54 | top-1 68.5% | validez 60.5% [53.6%-67.0%] | pico GPU 4.07 GiB | 218s
+SmolLM2-360M finetuned         | PPL prueba     4.02 | top-1 70.7% | validez 53.0% [46.1%-59.8%] | pico GPU 4.07 GiB | 218s
